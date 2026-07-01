@@ -1,0 +1,63 @@
+.navbar {
+    background: #ffffff;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgb(179, 151, 255) 50%, rgba(255, 255, 255, 1) 100%);
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    color: rgb(118, 45, 255);
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 100px;
+}
+.navbar a {
+    color: rgb(64, 53, 72);
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    
+}
+.navbar a:hover {
+    color: rgb(64, 53, 72);
+}
+h1{
+    color: rgb(64, 53, 72);
+    text-align: center;
+}
+body{
+    background: #E7D6FF;
+    background: linear-gradient(90deg,rgb(179, 151, 255) 0%, rgba(255, 255, 255, 1) 50%, rgb(179, 151, 255) 100%);
+}
+footer{
+    color: rgb(172, 121, 255);
+}
+.a{
+    background-color: rgb(172, 121, 255);
+    padding: 5px;
+    text-align: center;
+    border: 1px solid rgb(92, 0, 153);
+    border-radius: 10px;
+    margin: 20px 50px;
+}
+.c{
+    background-color: rgb(179, 151, 255);
+    padding: 5px;
+    
+    border-radius: 10px;
+    margin: 20px 50px;
+}
+h2,h3,p,ul,table{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+img{
+    border: 1px solid white;
+    border-collapse: collapse;
+    border-radius: 50px;
+}
+.b{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.d{
+    padding-left: 180px;
+    padding-right: 180px;
+}
